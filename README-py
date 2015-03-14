@@ -1,0 +1,17 @@
+Filter-Merge process:-
+
+* This Filter-Merging process is done by using the Python language
+
+* First the two files data1.csv and data2.csv are opened to read the contents, and the respective contents are written into sample.csv based on some conditions
+
+Execution steps:-
+
+* Install Python on your system and setup the respective path and environment variables
+
+* Replace the file paths of data1.csv, data2.csv and sample.csv in "hello.py" with your own file path
+Example:- 'C:\\Users\\nithin\\Desktop\\data1.csv' 
+
+* Go to the file path through the terminal and execute Python commands
+>python hello.py
+
+
